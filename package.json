@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Scullins0623/WebDev20/issues"
   },
-  "homepage": "https://github.com/Scullins0623/WebDev20#readme"
+  "homepage": "https://github.com/Scullins0623/WebDev20#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
