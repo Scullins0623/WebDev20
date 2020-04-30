@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/Scullins0623/WebDev20#readme",
   "dependencies": {
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
